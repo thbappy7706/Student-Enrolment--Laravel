@@ -12,7 +12,7 @@
    
    
    
-   ### TO RUN THIS COMMANDS TO START
+   ###  RUN THIS COMMANDS TO START
     1.composer dumpautoload
     2.php artisan migrate:fresh
     3.php artisan serve
